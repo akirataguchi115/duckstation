@@ -108,7 +108,7 @@ Use `flatpak run org.duckstation.DuckStation` to start, or select `DuckStation` 
 
 Universal MacOS builds are provided for both x64 and ARM64 (Apple Silicon).
 
-MacOS Big Sir (11.0) is required, as this is also the minimum requirement for Qt.
+MacOS Big Sur (11.0) is required, as this is also the minimum requirement for Qt.
 
 To download:
  - Go to https://github.com/stenzek/duckstation/releases/tag/latest, and download `duckstation-mac-release.zip`.
